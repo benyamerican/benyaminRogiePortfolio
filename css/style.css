@@ -2407,7 +2407,7 @@ h6 {
 /* 2.13. ADDRESS SECTION
 -------------------------------------------------------------------*/
 #lgx-address {
-    background: url('http://placehold.it/1920x500') center center no-repeat fixed;
+    background: url('../contact.jpg') center center no-repeat fixed;
     -webkit-background-size: cover;
     -o-background-size: cover;
     -moz-background-size: cover;
